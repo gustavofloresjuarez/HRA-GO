@@ -1,0 +1,10 @@
+{
+    "email": "5bc6172467@emaildbox.pro",
+    "password": "Mexico_2024",
+    "outPath": "/content/drive/MyDrive/Hi-Res 4",
+    "trackTemplate": "{{.trackPad}}. {{.title}}",
+    "downloadBooklets": true,
+    "maxCoverSize": true,
+    "keepCover": true,
+    "language": "en"
+}
