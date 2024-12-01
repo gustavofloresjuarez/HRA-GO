@@ -1,7 +1,7 @@
 {
     "email": "0b253f1780@emailvb.pro",
     "password": "Mexico_2024",
-    "outPath": "/content/drive/MyDrive/Hi-Res 4",
+    "outPath": "/content/drive/MyDrive/HRA/",
     "trackTemplate": "{{.trackPad}}. {{.title}}",
     "downloadBooklets": true,
     "maxCoverSize": true,
